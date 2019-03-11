@@ -1,2 +1,3 @@
 # hello-world
 Great to learn with Github
+I am taking the course of Data Science from the Coursera.  Hope I can catch up the new things all the time.
